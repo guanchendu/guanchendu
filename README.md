@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**guanchendu/guanchendu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Guanchen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guanchendu&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guanchendu&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Cool Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+**Languages & Tools:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=guanchendu&theme=dark)
