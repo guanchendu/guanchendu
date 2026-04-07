@@ -81,16 +81,15 @@ fun_fact: "I believe AI will reshape the world and make developers like me lose 
 ## 🔥 Contribution Streak
 
 <br>
-
 <a href="https://github.com/guanchendu">
   <img src="https://streak-stats.demolab.com?user=guanchendu&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" width="60%" alt="GitHub Streak"/>
 </a>
-
 <br><br>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guanchendu&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="35%" alt="Top Languages" />
-
 </div>
+<!-- ===================== ACTIVITY GRAPH ===================== -->
+<br>
+<div align="center">
 
 <!-- ===================== ACTIVITY GRAPH ===================== -->
 
