@@ -28,14 +28,14 @@
 ```yaml
 name: Guanchen Du (杜冠辰)
 university: Shantou University
-major: Computer Science
+major: Computer Science and Technology
 focus:
-  - Deep Learning
+  - Vision Action Model
   - World Models
   - QoS Prediction
   - Graph Neural Networks
 currently_learning: IELTS English
-fun_fact: "I believe AI will reshape the world 🌍"
+fun_fact: "I believe AI will reshape the world and make developers like me lose their jobs 🌍"
 ```
 
 </td>
