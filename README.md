@@ -7,7 +7,7 @@
 
 <!-- Typing SVG — animated intro -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%91%8B+Hey%2C+I'm+Guanchen+Du;%F0%9F%94%AC+Deep+Learning+%7C+World+Models+%7C+QoS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%91%8B+Hey%2C+I'm+Guanchen+Du;%F0%9F%94%AC+Multimodal+Large+Language+Model;%F0%9F%94%AC+World+Models+%7C+QoS+Prediction" alt="Typing SVG" />
 </a>
 
 <!-- Capsule Render — wave header -->
@@ -39,11 +39,11 @@ fun_fact: "I believe AI will reshape the world and make developers like me lose 
 ```
 
 </td>
-<td width="50%" valign="top" align="center">
+<!-- <td width="50%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=guanchendu&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true" width="100%" alt="GitHub Stats" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=guanchendu&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" /> -->
 
-</td>
+<!-- </td> --> 
 </tr>
 </table>
 
@@ -85,7 +85,7 @@ fun_fact: "I believe AI will reshape the world and make developers like me lose 
   <img src="https://streak-stats.demolab.com?user=guanchendu&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=ff6e40&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=6e7681" width="60%" alt="GitHub Streak"/>
 </a>
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guanchendu&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="35%" alt="Top Languages" />
+<img src="https://ssw-github-profile-stats.vercel.app/api/top-langs/?username=guanchendu&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="35%" alt="Top Languages" />
 </div>
 <!-- ===================== ACTIVITY GRAPH ===================== -->
 <br>
@@ -118,17 +118,15 @@ fun_fact: "I believe AI will reshape the world and make developers like me lose 
 <br>
 
 <a href="https://github.com/guanchendu/Paper_Code_STU">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guanchendu&repo=Paper_Code_STU&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ff6e40&text_color=8b949e" width="47%" alt="Paper_Code_STU"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/guanchendu/StudyOnWM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guanchendu&repo=StudyOnWM&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ff6e40&text_color=8b949e" width="47%" alt="StudyOnWM"/>
+  <img src="https://img.shields.io/badge/Paper_Code_STU-Research%20Code-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Paper_Code_STU" />
 </a>
 
-<br><br>
+<a href="https://github.com/guanchendu/StudyOnWM">
+  <img src="https://img.shields.io/badge/StudyOnWM-World%20Model-238636?style=for-the-badge&logo=github&logoColor=white" alt="StudyOnWM" />
+</a>
 
 <a href="https://github.com/guanchendu/DogGuanChen">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=guanchendu&repo=DogGuanChen&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ff6e40&text_color=8b949e" width="47%" alt="DogGuanChen"/>
+  <img src="https://img.shields.io/badge/DogGuanChen-Profile%20Config-f0883e?style=for-the-badge&logo=github&logoColor=white" alt="DogGuanChen" />
 </a>
 
 </div>
@@ -172,7 +170,7 @@ fun_fact: "I believe AI will reshape the world and make developers like me lose 
 
 <!-- ===================== TROPHY ===================== -->
 
-<br>
+<!-- <br>
 
 <div align="center">
 
@@ -184,10 +182,10 @@ fun_fact: "I believe AI will reshape the world and make developers like me lose 
   <img src="https://github-profile-trophy.vercel.app/?username=guanchendu&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="90%" alt="Trophies"/>
 </a>
 
-</div>
+</div> -->
 
 <!-- ===================== SNAKE ===================== -->
-<!--
+
 <br>
 
 <div align="center">
@@ -202,10 +200,10 @@ fun_fact: "I believe AI will reshape the world and make developers like me lose 
   <img alt="github-snake" src="https://raw.githubusercontent.com/guanchendu/guanchendu/output/github-snake-dark.svg" width="90%" />
 </picture>
 
-> 💡 **提示**: 贪吃蛇动画需要配置 GitHub Action，请参考下方说明。
+<!--> 💡 **提示**: 贪吃蛇动画需要配置 GitHub Action，请参考下方说明。 -->
 
 </div>
---!>
+
 <!-- ===================== CONNECT ===================== -->
 
 <br>
