@@ -200,7 +200,7 @@ fun_fact: "I believe AI will reshape the world and make developers like me lose 
   <img alt="github-snake" src="https://raw.githubusercontent.com/guanchendu/guanchendu/output/github-snake-dark.svg" width="90%" />
 </picture>
 
-<!--> 💡 **提示**: 贪吃蛇动画需要配置 GitHub Action，请参考下方说明。 -->
+<!-- 💡 **提示**: 贪吃蛇动画需要配置 GitHub Action，请参考下方说明。 -->
 
 </div>
 
